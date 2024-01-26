@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-
+        
         System.out.println("Choose an option:");
         System.out.println("1. Calculate GPA for one semester");
         System.out.println("2. Calculate Cumulative GPA");
